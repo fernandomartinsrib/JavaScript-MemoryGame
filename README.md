@@ -1,4 +1,4 @@
-# JavaScript-MemoryGame
+# Memory Game
 
 Projeto pequeno para treinar os fundamentos de JavaScript.
 
